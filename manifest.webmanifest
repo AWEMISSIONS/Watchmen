@@ -1,0 +1,9 @@
+{
+  "name": "Watchmen on the Wall",
+  "short_name": "Watchmen",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#13283a",
+  "description": "AWE Missions Watchmen report archive."
+}
